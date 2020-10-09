@@ -1,0 +1,8 @@
+.output {
+    border: 3px solid black;
+    width:40%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    margin-top: 5px;
+}
